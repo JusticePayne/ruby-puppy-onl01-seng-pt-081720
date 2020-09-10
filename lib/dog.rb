@@ -19,4 +19,6 @@ class Dog
       puts dog.name
   end
   
+  def 
+  
 end
